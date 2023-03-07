@@ -1,3 +1,6 @@
+//Aplicatia gestioneaza senzorii dintr-un sistem IOT. Informatiile pot fi transmise de la tastatura sau preluate din fisier
+//Sunt implementatea diferite functionalitati pentru respectivii senzori.
+
 #include<iostream>
 #include<string>
 #include<fstream>
